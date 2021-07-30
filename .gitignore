@@ -1,0 +1,10 @@
+docs.md
+
+# Environments
+.env
+*.env
+
+*.swp
+*.swo
+*.swn
+*.swm
